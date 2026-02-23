@@ -1,4 +1,3 @@
 
 
 HI, welcome
-Welcome to Devops Course
